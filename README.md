@@ -4,29 +4,43 @@
 <h4> Tecnologias Imersivas</h4>
 <h5> FrontEnd </h5>
 <h6> BackEnd</h6>
+
 **Conteúdo Programático**<br>
 *Lista de Conteúdos*
+
 >1.HTML - Linguagem de marcação de Textos (**estrutura**) <br> 
+
 ```
 https://www.w3schools.com/html/default.asp
 ```
+
+```
+https://livrosdomaujor.com.br/html/index.php
+```
+
+
 >2.CSS  - Linguagem de **estilização** (cores,fontes,background...) <br>
+
 ```
 https://www.w3schools.com/css/default.asp
 ```
+
 >3.JavaScript - Linguagem de Programação Script (**funcionalidade**) <br>
+
 ```
 https://www.w3schools.com/js/default.asp
 ```
+
 >4.Git-GitHub - **Versionamento** de Código(clone,pull,push,commit,merge)<br>
+
 ```
 https://docs.microsoft.com/pt-br/learn/modules/introduction-to-github/
 ```
 
 
 
-5.*Lógica de Programação* Aplicada ao JavaScript<br>
 >5.*Lógica de Programação* Aplicada ao JavaScript<br>
+
 **Racha Cuca**
 ```
 https://rachacuca.com.br/
